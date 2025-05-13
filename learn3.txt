@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hi hello myslef mounika"
+echo" i am learning devops"
+
